@@ -1,0 +1,3 @@
+-  Hi, I’m @The-Brandon-Tran
+-  Languages: Java, C++, Python, English, Chinese, Vietnamese, Japanese
+-  Email Brandon.tran.khang@gmail.com
