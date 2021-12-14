@@ -1,4 +1,4 @@
 -  Hi, I’m @The-Brandon-Tran
 -  Major : Computer Science at ASU
--  Languages: Java, C++, Python, English, Chinese, Vietnamese, Japanese
+-  Languages: Java, C++, Python, JavaScipt
 -  Email Brandon.tran.khang@gmail.com
